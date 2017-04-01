@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Luxury sneakers</title>
+  </head>
+
+  <boby>
+    <div class="first">
+      <p>geia sou</p>
+    </div>
+    <div class="second">
+      <p>bye bye</p>
+    </div>
+    <div class="brands">
+    <h1>All brands</h1>
+    <img src="https://www.google.gr/search?q=adidas&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjCpIqp54PTAhUJJMAKHQu6CngQ_AUIBigB&biw=1366&bih=678#imgrc=k5zbnirVUBYzwM:"
+    alt="adidas"/>
+
+    </div>
+  </boby>
+</html>

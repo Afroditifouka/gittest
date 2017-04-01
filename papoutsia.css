@@ -1,0 +1,12 @@
+.brands{
+background-color: blue;
+display: flex;
+}
+
+.first{
+  background-color: grey;
+}
+
+.second{
+  background-color: green;
+}
